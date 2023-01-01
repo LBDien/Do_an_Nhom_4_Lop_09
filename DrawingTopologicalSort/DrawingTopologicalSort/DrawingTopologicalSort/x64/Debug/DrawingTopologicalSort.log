@@ -1,0 +1,8 @@
+﻿  DrawingTopologicalSort.cpp
+C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort\graphics.h(257,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort\graphics.h(258,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort.cpp(61,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort\DrawingTopologicalSort.cpp(61,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DrawingTopologicalSort.vcxproj -> C:\Users\LENOVO\OneDrive\Máy tính\CTDL\DrawingTopologicalSort\DrawingTopologicalSort\x64\Debug\DrawingTopologicalSort.exe
